@@ -1,0 +1,6 @@
+# Do not include IDEA files.
+/.idea
+*.iml
+
+# Do not include target files.
+/target
